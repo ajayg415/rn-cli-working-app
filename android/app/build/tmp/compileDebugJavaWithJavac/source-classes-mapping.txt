@@ -1,0 +1,14 @@
+com/newone/ReactNativeFlipper.java
+ com.newone.ReactNativeFlipper
+ com.newone.ReactNativeFlipper$1
+ com.newone.ReactNativeFlipper$2
+ com.newone.ReactNativeFlipper$2$1
+com/newone/BuildConfig.java
+ com.newone.BuildConfig
+com/newone/MainApplication.java
+ com.newone.MainApplication
+ com.newone.MainApplication$1
+com/newone/MainActivity.java
+ com.newone.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
